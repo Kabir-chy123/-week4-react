@@ -23,3 +23,27 @@ img {
   width: 120px;
   height: auto;
 }
+dialog {
+  border: none;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 700px;
+}
+
+dialog img,
+dialog video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 15px;
+}
+
+dialog button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+button {
+  padding: 6px 12px;
+  cursor: pointer;
+}
