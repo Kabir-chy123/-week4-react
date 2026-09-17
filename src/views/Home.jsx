@@ -16,6 +16,7 @@ const Home = () => {
 
     getMedia();
   }, []);
+  console.log(mediaArray);
   return (
     <>
       <h2>My Media</h2>
