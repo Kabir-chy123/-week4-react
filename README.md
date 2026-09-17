@@ -15,3 +15,4 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 Open [WSK Routing App](https://users.metropolia.fi/~kabirc/wsk-routing/) to view it in the browser.
+Open [Hooks App](https://users.metropolia.fi/~kabirc/hooks/) to view it in the browser.
